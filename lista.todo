@@ -1,0 +1,32 @@
+Treinamento AngularJS:
+  ✔ Criar repositório GitHub @done (16-03-07 20:58)
+  ✔ Clonar projeto @done (16-03-07 20:59)
+  Verificar Instalações de plugins:
+    ✔ Bower (bower -v) @done (16-03-07 20:59)
+    ✔ Live Server (live-server -v) @done (16-03-07 20:59)
+  ✔ Inicializar o bower (bower init PS: Se for windows, rodar o comando com o prompt do windows e não gitbash) @done (16-03-07 20:59)
+  Criar estrutura de pastas da aplicação:
+    ✔ index.html (Aqui é o arquivo principal da SPA {Single Page Application}) @done (16-03-07 20:59)
+    ✔ app.js (Aqui irão as configuraçoes do Angularjs como inicializaçao, config e run) @done (16-03-07 20:59)
+    ✔ app.css (Aqui será o arquivo de style padrão da aplicação) @done (16-03-07 20:59)
+    ✔ services (Aqui estarão os servicos (models) da aplicação) @done (16-03-07 20:59)
+    ✔ home ( que será o dashboard ) @done (16-03-07 20:59)
+      ✔ home.html @done (16-03-07 20:59)
+      ✔ home.js @done (16-03-07 20:59)
+    ✔ cadastro ( que será o crud ) @done (16-03-07 20:59)
+      ✔ cadastro.html @done (16-03-07 20:59)
+      ✔ cadastro.js @done (16-03-07 20:59)
+    ✔ etc (Coloquei esse pq não sei) @done (16-03-07 20:59)
+  Instalar os componentes de terceiros:
+    ✔ bootstrap (layout) @done (16-03-07 20:59)
+    ✔ angular-ui-router (controle de rotas) @done (16-03-07 20:59)
+    ✔ angular-animate (animações) @done (16-03-07 20:59)
+    ✔ toaster (popups de mensagems) @done (16-03-07 20:59)
+    ✔ sweetalert (confirmações) @done (16-03-07 21:03)
+    (bower install bootstrap angular angular-animate angular-ui-router sweetalert AngularJS-Toaster --save)
+  Criação dos servicos:
+    ✔ Criar um serviço estatico para controle de URL @done (16-03-07 20:59)
+    ✔ Criar um serviço estatico para Sessão de Usuário (hahaahahaha) @done (16-03-07 20:59)
+    ✔ Criar um serviço para o Layout da Aplicação (hahahahahaah) @done (16-03-07 20:59)
+  ☐ Criar um Readme.md (Linguagem markdown e coloca-lo no git com essas informações) (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  ☐ Desenvolver o resto!
